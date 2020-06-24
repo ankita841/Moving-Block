@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\dell\OneDrive\Desktop\Moving_Block\main.c(104,19): warning C4013: 'memset' undefined; assuming extern returning int
+  Moving_Block.vcxproj -> C:\Users\dell\OneDrive\Desktop\Moving_Block\Debug\Moving_Block.exe
